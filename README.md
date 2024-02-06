@@ -1,1 +1,1 @@
-# hero_admin_panel_ver2.0
+This is test project with hero admin panel!
